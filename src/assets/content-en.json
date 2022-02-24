@@ -1,0 +1,12 @@
+{
+    "idea": "Idea",
+    "intro": "The project's purpose is to explore virtual reality technology for creating high-fidelity polish folk instruments simulation.",
+    "drumH": "Polish frame drum",
+    "drum1": "3D models for both bass and frame drum were created for using with Unreal Engine 4's physically based rendering pipeline.",
+    "drum2": "The main goal was to create a technical demo application for verifying methods and algorithms for simulating the frame drum and bass.",
+    "bassH": "Bass",
+    "bass": "The bass model is based on documentary work from Mateusz Raszewski who is a traditional instrument maker. The original instrument dates 1920, from Kamińsk (Wielkopolskie).",
+    "footer": "The project was granted a scholarship from Ministry of Culture and National Heritage of the Republic of Poland in 2021.",
+    "source_link": "Source code",
+    "article": "Article (pdf)"
+}

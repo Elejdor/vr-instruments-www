@@ -1,0 +1,12 @@
+{
+    "idea": "Pomysł",
+    "intro": "Wirtualne instrumenty to projekt poświęcony eksploracji użycia technologii wirtualnej rzeczywistości do symulacji polskich instrumentów rytmicznych regionów Polski Centralnej.",
+    "drumH": "Bęben obręczowy",
+    "drum1": "Na potrzeby projektu powstały fotorealistyczne modele graficzne bębeneka obręczowego i basów wraz z teksturami pozwalającymi wykorzystać technikę oświetlenia fizycznego dostępną w silniku Unreal Engine 4.",
+    "drum2": "Głównym celem było stworzenie aplikacji sprawdzającej metody i algorytmy potrzebne do symulacji bębna obręczowego i basów na platformach VR.",
+    "bassH": "Basy",
+    "bass": "Model basów oparty jest o zdjęcia dokumentalne twórcy instrumentów Mateusza Raszewskiego. Są to basy z 1920 roku z Kamińska (woj. Wielkopolskie).",
+    "footer": "Zrealizowano w ramach stypendium Ministra Kultury, Dziedzictwa Narodowego i Sportu 2021.",
+    "source_link": "Kod źródłowy",
+    "article": "Artykuł (pdf)"
+}

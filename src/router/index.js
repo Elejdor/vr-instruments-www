@@ -1,7 +1,12 @@
-import { createRouter, createWebHashHistory } from 'vue-router';
+import { createRouter, createWebHistory } from 'vue-router';
 import Home from '../views/Home.vue';
 
 const routes = [
+  {
+    path: '/:lang',
+    name: 'Home-lang',
+    component: Home,
+  },
   {
     path: '/',
     name: 'Home',
@@ -18,7 +23,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(),
   routes,
 });
 
